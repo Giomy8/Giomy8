@@ -1,6 +1,6 @@
 ###  Hi, my name is Giomar Mesa👋
 
-I´m Fullstack Developer en Henry
+I´m Fullstack Developer in Henry
 
 I´m a passionate Fullstack Developer with experience in modern web development technologies. I specialize in creating dynamic and functional web applications using cutting-edge technologies. My expertise includes fluent use of JavaScript (ES6), React, Redux, Express, Sequelize, PostgreSQL, HTML, CSS, and Tailwind.
 
@@ -12,7 +12,7 @@ Professional Experience:
 
 Featured Projects:
 
-• Wanderlux Homes: I collaborated with a team to develop a house rental application similar to Airbnb called Wanderluxe Homes, using React and Redux. I implemented key features and ensured a seamless user experience. I was responsible for organizing the page styles using Tailwind, making the web application look organized and suitable for the theme, thus creating a pleasant experience for users.
+• Wanderlux Homes: I collaborated with a team to develop a house rental application similar to Airbnb called Wanderluxe Homes, using React and Redux. I implemented key features and ensured a seamless user experience. I was responsible for organizing the page styles using Tailwind, making the web application look organized and suitable for the theme, this creating a pleasant experience for users.
 
 Education:
 
